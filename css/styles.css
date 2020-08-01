@@ -1,0 +1,67 @@
+#riz-navbar .navbar-brand {
+    font-weight: 600;
+    font-family: 'Pacifico', cursive;
+}
+
+#riz-navbar .navbar-brand span {
+    color: red;
+}
+
+#riz-navbar {
+    background-color: #dfe3d1;
+}
+
+#riz-navbar .nav-link:hover {
+    color: rgba(64, 123, 190, 0.671);
+}
+
+.container .section-riz {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-networking a {
+    color: black;
+}
+
+.social-networking a:hover {
+    color: green;
+}
+
+.section-riz {
+    margin-top: 5rem;
+    /* background-color: coral; */
+}
+
+.about-me,
+.exp {
+    background-color: #e9ecef;
+    border-radius: 10px;
+    padding-bottom: 2rem;
+}
+
+.container-fluid .about-me {
+    margin: 100px;
+}
+
+.deg {
+    background-color: white;
+    margin: 10px;
+    border-radius: 25px;
+}
+
+.riz-footer,
+.riz-footer a {
+    color: white;
+    font-size: small;
+}
+
+.jumbotron.section-riz.section-riz-last {
+    margin-top: 2rem;
+}
+
+.jumbotron.section-riz-last {
+    padding: 1rem;
+}
